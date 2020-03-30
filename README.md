@@ -1,6 +1,7 @@
 # helpbor
 
-HelpBor - Help Your Neighbors &amp; Get Help
+HelpBor - Help Your Neighbors
+
 
 ## Getting Started
 
@@ -14,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+helpbor-flutter is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
